@@ -1,5 +1,10 @@
 module.exports = {
     base: '/XiaomiWiki.github.io/',
+    head: [
+        ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+        ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ],
     // Add the different locales
     locales: {
         // The key is the path for the locale to be nested under.

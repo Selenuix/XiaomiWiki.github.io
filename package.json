@@ -1,5 +1,5 @@
 {
-  "name": "xiaomiwiki.github.io2",
+  "name": "xiaomiwiki.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Selenuix/XiaomiWiki.github.io.git"
+    "url": "https://github.com/Selenuix/XiaomiWiki.github.io.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Selenuix",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Selenuix/XiaomiWiki.github.io/issues"
   },
