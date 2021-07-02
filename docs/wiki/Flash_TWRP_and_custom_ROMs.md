@@ -32,7 +32,9 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 **Requirements:** [unlocked bootloader](Unlock_the_bootloader.md)
 
-**Note:** These instructions don't apply to Android One devices.
+   ::: tip
+   These instructions don't apply to Android One devices.
+   :::
 
 1. Download and if needed, unzip the image file of the recovery that you want to flash. If a custom ROM requires a specific build of TWRP to be flashed, that is noted by the developer on XDA.
 
@@ -48,15 +50,19 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
 4. On the Fastboot tab, in the Flasher module, check the autoboot option, then browse for your recovery image, select the recovery partition and click Flash image.
 
-    **Note:** If anti-rollback protection is enabled on the device, you have to disable the anti-rollback safeguard before flashing.
+   ::: tip
+   If anti-rollback protection is enabled on the device, you have to disable the anti-rollback safeguard before flashing.
+   :::
 
-    **If TWRP comes up in Chinese**, change the language by tapping the button on the right.
+ **If TWRP comes up in Chinese**, change the language by tapping the button on the right.
 
-    **If the device asks for decryption password**, input the PIN/password you use on your lock screen. If that doesn't work, format data in the Wipe menu, then reboot to TWRP.
+ **If the device asks for decryption password**, input the PIN/password you use on your lock screen. If that doesn't work, format data in the Wipe menu, then reboot to TWRP.
 
 5. When asked in TWRP, swipe to allow modifications and proceed with what you want to do in TWRP.
 
-    **Warning:** To use official MIUI with TWRP flashed, you have to disable dm-verity by flashing Magisk or Lazyflasher. Dm-verity causes MIUI to clear TWRP on boot and may also bootloop the device.
+   :::danger
+   To use official MIUI with TWRP flashed, you have to disable dm-verity by flashing Magisk or Lazyflasher. Dm-verity causes MIUI to clear TWRP on boot and may also bootloop the device.
+   :::
 
 ### Clean install in TWRP
 
@@ -64,8 +70,10 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
     **If the device asks for decryption password**, ignore it, go to the Wipe menu, format data then reboot to TWRP.
 
-    **Note:** TWRP is MTP enabled so if you connect the device to a PC, the internal and external storages become accessible.
-
+   ::: tip
+   TWRP is MTP enabled so if you connect the device to a PC, the internal and external storages become accessible.
+   :::
+   
 2. Connect the device to your PC and transfer everything you want to flash to the device's internal or external storage.
 
 3. Go to Wipe > Advanced Wipe and wipe **Cache**, **Dalvik Cache** and **System**.
@@ -86,7 +94,9 @@ TWRP is a custom recovery that replaces MiRecovery / the splash screen for the M
 
     **If the device asks for decryption password**, input the PIN/password you use on your lock screen. If that doesn't work, format data in the Wipe menu, then reboot to TWRP.
 
-    **Note:** TWRP is MTP enabled so if you connect the device to a PC, the internal and external storages become accessible.
+   ::: tip
+   TWRP is MTP enabled so if you connect the device to a PC, the internal and external storages become accessible.
+   :::
 
 2. Connect the device to your PC and transfer everything you want to flash to the device's internal or external storage.
 

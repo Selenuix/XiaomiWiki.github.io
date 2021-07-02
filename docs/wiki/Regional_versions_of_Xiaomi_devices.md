@@ -8,7 +8,9 @@ Xiaomi devices which are officially sold outside of Mainland China usually come 
 
 Chinese versions are manufactured and sold in Mainland China, they come in a Chinese box with a NEMA plug power adapter and the China Stable ROM pre-installed. Most resellers sell the Chinese versions of Xiaomi devices with a Global ROM (often labelled as "International version" or "Global ROM version"), since some devices are only available in China.
 
-**Warning: On Chinese Versions manufactured after May 2018, it's not possible to boot any ROM other than the official Chinese one if the bootloader is locked.**
+::: warning
+On Chinese Versions manufactured after May 2018, it's not possible to boot any ROM other than the official Chinese one if the bootloader is locked.
+:::
 
 ### Global Version
 

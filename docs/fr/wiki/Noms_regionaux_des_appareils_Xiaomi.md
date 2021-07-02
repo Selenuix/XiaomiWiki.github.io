@@ -1,10 +1,10 @@
-[Index page](../)
+[Page d'index](../)
 
-## Regional names of Xiaomi devices
+## Noms régionaux des appareils Xiaomi
 
-**Models that don't have regional names are not included.**
+**Les modèles qui n'ont pas de noms régionaux ne sont pas inclus.**
 
-| Codename | Mainland China | HK/Taiwan | India | Rest of the world | Also known as |
+| Nom de code | Chine continentale | HK/Taiwan | Inde | Reste du monde | Aussi connu comme |
 |:---------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:---------------------:|
 | beryllium | - | POCOPHONE F1 | POCO F1 | POCOPHONE F1 | - |
 | davinci | Redmi K20 | Mi 9T | Redmi K20 | Mi 9T | - |
@@ -21,6 +21,6 @@
 | curtana |- | - | Redmi Note 9 Pro | Redmi Note 9S | - |
 | joyeuse | - | - | - | Redmi Note 9 Pro | - |
 
-**Additional notes:**
+**Notes additionelles :**
 
-* The Redmi Note 4X 4GB+64GB comes with Helio X20 in Mainland China.
+* Le Redmi Note 4X 4Go+64Go est livré avec le Helio X20 en Chine continentale.

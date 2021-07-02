@@ -12,7 +12,9 @@ On Xiaomi devices, sensor data is stored in a partition called *persist*. This p
 
 2. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
-    **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+::: tip
+You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+:::
 
 3. In the unzipped folder, enter the `images` folder and open the file `rawprogram0.xml` in a text editor (Notepad++ or VS Code recommended).
 

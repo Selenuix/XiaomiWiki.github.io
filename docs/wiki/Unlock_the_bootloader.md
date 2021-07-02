@@ -12,7 +12,9 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 3. Go to Settings > Additional settings > Developer options > Mi Unlock status and add your Mi account and device.
 
-    **You will only be able to proceed if it's been more than 72 or 360 hours that you successfully added your account and device. The waiting time depends on the phone model, you can check how much time is remaining by attempting to unlock.**
+   ::: warning
+   You will only be able to proceed if it's been more than 72 or 360 hours that you successfully added your account and device. The waiting time depends on the phone model, you can check how much time is remaining by attempting to unlock.
+   :::
 
 4. Download, extract and run [MiUnlock](Tools_for_Xiaomi_devices.md).
 
@@ -22,7 +24,9 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 7. Follow the instructions that appear on-screen and unlock the bootloader.
 
-    **Note:** Unlocking the bootloader will result in a factory reset.
+   ::: danger
+   Unlocking the bootloader will result in a factory reset.
+   :::
 
 ### Unlock Android One devices
 
@@ -36,7 +40,9 @@ Starting with the Redmi Note 3 MTK, Xiaomi decided to lock its devices' bootload
 
 5. On the Fastboot tab, in the OEM Unlocker module, click Unlock.
 
-    **Note:** Unlocking the bootloader will result in a factory reset.
+   ::: danger
+   Unlocking the bootloader will result in a factory reset.
+   :::
 
 ### Locking and re-unlocking the bootloader
 

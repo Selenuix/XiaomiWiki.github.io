@@ -35,3 +35,5 @@
 * [Enable Camera2](wiki/Enable_Camera2.md)
 * [Access EDL mode](wiki/Access_EDL_mode.md)
 * [Fix sensor issues](wiki/Fix_sensor_issues.md)
+
+Made with :blush: by Szaki | Edit on [Github](https://github.com/XiaomiWiki/XiaomiWiki.github.io)

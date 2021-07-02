@@ -12,7 +12,9 @@ By default, MIUI comes with a lot of system apps that replace stock Android's ow
 
 3. On the ADB tab, in the Uninstaller module, select all the apps and services you wish to remove and click Uninstall!
 
-    **Note:** The Uninstaller only lists apps which aren't necessary for basic functionality, so removing them won't break the device.
+::: tip
+The Uninstaller only lists apps which aren't necessary for basic functionality, so removing them won't break the device.
+:::
 
 4. Afterwards, reboot the device to finalise the changes by clicking Reboot device to System in the top menu.
 

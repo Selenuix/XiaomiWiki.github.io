@@ -42,7 +42,9 @@
 
 4. After the ROM's been downloaded, unzip it.
 
-    **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+::: tip
+You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+:::
 
 5. On the Fastboot tab, in the Flasher module, select the unzipped ROM folder, choose an installation method and click Flash ROM.
 
@@ -58,7 +60,9 @@
 
 2. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
-    **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+::: tip
+You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+:::
 
 3. Connect the device to your PC and enter Fastboot mode by holding Power and Vol- simultaneously until the Fastboot splash screen comes up.
 
@@ -86,7 +90,9 @@
 
 3. Download the Fastboot ROM you want to flash from [here](https://xiaomifirmwareupdater.com/miui/) and unzip it.
 
-    **Note:** You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+::: tip
+You might get a single .tar file after unzipping which has to be unzipped again in order to get the necessary files.
+:::
 
 4. Connect the device to your PC and enter EDL mode by following the instructions [here](Access_EDL_mode.md).
 
