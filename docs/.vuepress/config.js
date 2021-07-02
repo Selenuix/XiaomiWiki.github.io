@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/XiaomiWiki.github.io/',
     // Add the different locales
     locales: {
         // The key is the path for the locale to be nested under.
