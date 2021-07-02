@@ -1,4 +1,4 @@
-node_modules
-.temp
-.cache
-.idea
+node_modules/
+.temp/
+.cache/
+.idea/
